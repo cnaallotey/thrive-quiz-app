@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      { "text": "London", "isRight": false },
+      { "text": "Berlin", "isRight": false },
+      { "text": "Paris", "isRight": true },
+      { "text": "Madrid", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      { "text": "Venus", "isRight": false },
+      { "text": "Mars", "isRight": true },
+      { "text": "Jupiter", "isRight": false },
+      { "text": "Saturn", "isRight": false }
+    ]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      { "text": "Atlantic Ocean", "isRight": false },
+      { "text": "Indian Ocean", "isRight": false },
+      { "text": "Arctic Ocean", "isRight": false },
+      { "text": "Pacific Ocean", "isRight": true }
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      { "text": "Vincent van Gogh", "isRight": false },
+      { "text": "Leonardo da Vinci", "isRight": true },
+      { "text": "Pablo Picasso", "isRight": false },
+      { "text": "Michelangelo", "isRight": false }
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      { "text": "Go", "isRight": false },
+      { "text": "Gd", "isRight": false },
+      { "text": "Au", "isRight": true },
+      { "text": "Ag", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "options": [
+      { "text": "New Zealand", "isRight": false },
+      { "text": "Australia", "isRight": true },
+      { "text": "South Africa", "isRight": false },
+      { "text": "Brazil", "isRight": false }
+    ]
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      { "text": "Monaco", "isRight": false },
+      { "text": "San Marino", "isRight": false },
+      { "text": "Vatican City", "isRight": true },
+      { "text": "Liechtenstein", "isRight": false }
+    ]
+  },
+  {
+    "question": "How many continents are there?",
+    "options": [
+      { "text": "5", "isRight": false },
+      { "text": "6", "isRight": false },
+      { "text": "7", "isRight": true },
+      { "text": "8", "isRight": false }
+    ]
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      { "text": "Gold", "isRight": false },
+      { "text": "Iron", "isRight": false },
+      { "text": "Diamond", "isRight": true },
+      { "text": "Platinum", "isRight": false }
+    ]
+  },
+  {
+    "question": "Which gas makes up most of Earth's atmosphere?",
+    "options": [
+      { "text": "Oxygen", "isRight": false },
+      { "text": "Carbon dioxide", "isRight": false },
+      { "text": "Nitrogen", "isRight": true },
+      { "text": "Hydrogen", "isRight": false }
+    ]
+  }
+]

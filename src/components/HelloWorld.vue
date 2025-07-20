@@ -18,6 +18,7 @@ const count = ref(0)
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
   </div>
+  <p class="text-xl font-bold">Hello to you</p>
 
   <p>
     Check out
